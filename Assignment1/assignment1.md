@@ -1,6 +1,8 @@
+[![VIIT](https://www.viit.ac.in/images/logo.png)](VIIT)
 # Assignment1- Linux commands practice
 ## File related commands
 
+   
 
 1. ```ls ```
    

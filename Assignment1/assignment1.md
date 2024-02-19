@@ -302,3 +302,84 @@
    Output
 
    ![pwd](./images/31_od.png)     
+
+32. ```wc <fileName>```
+    
+   Description
+   ![pwd](./images/man_wc.png)
+
+   Output
+
+   ![pwd](./images/32_wc.png)        
+
+33. ```id```
+    
+   Description
+   ![pwd](./images/man_ic.png)
+
+   Output
+
+   ![pwd](./images/33_id.png)    
+
+34. ```tac <fileName>```
+    
+   Description
+   ![pwd](./images/man_tac.png)
+
+   Output
+
+   ![pwd](./images/34_tac.png)    
+
+35. ```more <fileName>```
+    
+   Description
+   ![pwd](./images/man_more.png)
+
+   Output
+
+   ![pwd](./images/35_more.png)    
+
+36. ```less <fileName>```
+    
+   Description
+   ![pwd](./images/man_less.png)
+
+   Output
+
+   ![pwd](./images/36_less.png)    
+
+37. ```head <fileName>```
+    
+   Description
+   ![pwd](./images/man_head.png)
+
+   Output
+
+   ![pwd](./images/37_head.png)    
+
+ 38. ```tail <fileName>```
+    
+   Description
+   ![pwd](./images/man_tail.png)
+
+   Output
+
+   ![pwd](./images/38_tail.png)    
+
+39. ```cat <fileName> | grep keyword```
+    
+   Description
+   ![pwd](./images/man_grep.png)
+
+   Output
+
+   ![pwd](./images/39_grep.png)    
+
+40. ```comm <file1> <file2>```
+    
+   Description
+   ![pwd](./images/man_comm.png)
+
+   Output
+
+   ![pwd](./images/40_comm.png)                          

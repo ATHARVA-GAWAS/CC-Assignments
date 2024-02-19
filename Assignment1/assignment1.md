@@ -383,3 +383,93 @@
    Output
 
    ![pwd](./images/40_comm.png)                          
+
+41. ```gzip <filename> ``
+    
+   Description
+   ![pwd](./images/man_gzip.png)
+
+   Output
+
+   ![pwd](./images/41_gzip.png)
+
+42. ```gunzip <filename>```
+    
+   Description
+   ![pwd](./images/man_gunzip.png)
+
+   Output
+
+   ![pwd](./images/42_gunzip.png)
+
+43. ```echo text```
+    
+   Description
+   ![pwd](./images/man_echo.png)
+
+   Output
+
+   ![pwd](./images/43_echo.png)
+
+44. ```whoami```
+    
+   Description
+   ![pwd](./images/man_whoami.png)
+
+   Output
+
+   ![pwd](./images/44_whoami.png)
+
+45. ```diff <file1> <file2>```
+    
+   Description
+   ![pwd](./images/man_diff.png)
+
+   Output
+
+   ![pwd](./images/45_diff.png)
+
+46. ```top```
+    
+   Description
+   ![pwd](./images/man_top.png)
+
+   Output
+
+   ![pwd](./images/46_top.png)
+
+47. ```clear```
+    
+   Description
+   ![pwd](./images/man_clear.png)
+
+   Output
+
+   ![pwd](./images/47_clear.png)
+
+48. ```man command```
+    
+   Description
+   ![pwd](./images/man_man.png)
+
+   Output
+
+   ![pwd](./images/48_man.png)
+
+49. ```cmp <file1> <file2>```
+    
+   Description
+   ![pwd](./images/man_cmp.png)
+
+   Output
+
+   ![pwd](./images/49_cmp.png)
+
+50. ```ps```
+    
+   Description
+   ![pwd](./images/man_ps.png)
+
+   Output
+
+   ![pwd](./images/50_ps.png)                              

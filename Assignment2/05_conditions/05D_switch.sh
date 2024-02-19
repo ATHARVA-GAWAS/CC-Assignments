@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 FRUIT="kiwi"
 
 case "$FRUIT" in

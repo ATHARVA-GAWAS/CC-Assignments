@@ -222,4 +222,47 @@
 
    ![pwd](./images/22_locate.png)  
 
-23.      
+23. ```date```
+    
+   Description
+   ![pwd](./images/man_date.png)
+
+   Output
+
+   ![pwd](./images/23_date.png)  
+
+24. ```cal```
+    
+   Description
+   ![pwd](./images/man_cal.png)
+
+   Output
+
+   ![pwd](./images/24_cal.png)   
+
+25. ```time```
+    
+   Description
+   ![pwd](./images/man_time.png)
+
+   Output
+
+   ![pwd](./images/25_time.png)     
+
+26. ```df```
+    
+   Description
+   ![pwd](./images/man_df.png)
+
+   Output
+
+   ![pwd](./images/26_df.png)     
+
+27. ```exit```
+    
+   Description
+   ![pwd](./images/man_exit.png)
+
+   Output
+
+   ![pwd](./images/27_exit.png)     

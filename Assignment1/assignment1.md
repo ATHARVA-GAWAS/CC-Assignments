@@ -265,4 +265,40 @@
 
    Output
 
-   ![pwd](./images/27_exit.png)     
+   ![pwd](./images/27_exit.png)   
+
+28. ```sort```
+    
+   Description
+   ![pwd](./images/man_sort.png)
+
+   Output
+
+   ![pwd](./images/28_sort.png)
+
+29. ```od -b <fileName> ```
+    
+   Description
+   ![pwd](./images/man_od.png)
+
+   Output
+
+   ![pwd](./images/29_od.png)
+
+30. ```od -t x1 <fileName>```
+    
+   Description
+   ![pwd](./images/man_od.png)
+
+   Output
+
+   ![pwd](./images/30_od.png)           
+
+31. ```od -c <fileName>```
+    
+   Description
+   ![pwd](./images/man_od.png)
+
+   Output
+
+   ![pwd](./images/31_od.png)     
